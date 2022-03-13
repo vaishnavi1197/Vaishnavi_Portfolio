@@ -34,4 +34,3 @@
 1. Logistic Regression
 2. SOM
 3. SVM
-
