@@ -4,7 +4,7 @@
 
 ### *Navigate directly to interested project domains*:
 
-## <span style="color:green">Machine learning models:</span>
+## <span style="color:yellow">Machine learning models:</span>
 1. [Zomato_Predict-Rating-of-Restaurants](https://github.com/vaishnavi1197/Zomato_Predict-Rating-of-Restaurants.)
 2. [Prediction-of-Stock-Prices-Time-Series-Analysis](https://github.com/vaishnavi1197/Prediction-of-Stock-Prices-Time-Series-Analysis-)
 3. [Airplane-Fair-Prediction](https://github.com/vaishnavi1197/Airplane-Fair-Prediction-)
@@ -20,7 +20,7 @@
 2. SOM
 3. SVM
 
-## Image Processing Projects(without built in librarary functions):
+## Image Processing Projects (without built in librarary functions):
   [go to repo](https://github.com/vaishnavi1197/Digital-Image-Processing-Library)
   
 1. [Salt Pepper noise](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Salt%20Pepper%20noise)
@@ -28,7 +28,7 @@
 3. [Histogram Equalizations](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Histogram%20Equalizations)
 
 
-## Neural Network basics(without built in librarary functions):
+## Neural Network basics (without built in librarary functions):
 1. [Autoencoder-network ](https://github.com/vaishnavi1197/Autoencoder-network)
 2. [Multi-layer-feed-forward-neural-network ](https://github.com/vaishnavi1197/-Multi-layer-feed-forward-neural-network)
 3. [Perceptron](https://github.com/vaishnavi1197/Perceptron)
