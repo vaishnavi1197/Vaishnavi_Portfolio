@@ -17,7 +17,7 @@
 2. Poem creating using Evolutionary Algorithm (project in progress)
 
 ### __*Image Processing Projects (without built in librarary functions)*__:
-       [go to repo](https://github.com/vaishnavi1197/Digital-Image-Processing-Library)
+   [go to repo](https://github.com/vaishnavi1197/Digital-Image-Processing-Library)
 1. [Salt Pepper noise](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Salt%20Pepper%20noise)
 2. [Blurring with Gaussian filter](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Blurring_Gaussian_Filtering)
 3. [Histogram Equalizations](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Histogram%20Equalizations)
