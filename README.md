@@ -1,12 +1,10 @@
 ## ⚠️ Site under construction ⚠️
 
-## <span style="color:blue">*This is Blue italic.*</span>
+# >><span style="color:red">*Vaishnavi's DataScience Portfolio*</span>
 
-# *Vaishnavi's DataScience Portfolio*
+### *Navigate directly to interested project domains*:
 
-## *Navigate directly to interested project domains*:
-
-## <span style="color:red">Machine learning models:</span>
+## <span style="color:green">Machine learning models:</span>
 1. [Zomato_Predict-Rating-of-Restaurants](https://github.com/vaishnavi1197/Zomato_Predict-Rating-of-Restaurants.)
 2. [Prediction-of-Stock-Prices-Time-Series-Analysis](https://github.com/vaishnavi1197/Prediction-of-Stock-Prices-Time-Series-Analysis-)
 3. [Airplane-Fair-Prediction](https://github.com/vaishnavi1197/Airplane-Fair-Prediction-)
