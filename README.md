@@ -1,6 +1,6 @@
 ## ⚠️ Site under construction ⚠️
 
-## <span style="color:blue">some *This is Blue italic.* text</span>
+## <span style="color:blue">*This is Blue italic.*</span>
 
 # *Vaishnavi's DataScience Portfolio*
 
