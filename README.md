@@ -7,6 +7,8 @@
 
 ### <span style="color:darkblue">*Project Domains*:</span>
 
+
+
 ### __*Machine learning models*__:
 1. [Zomato_Predict-Rating-of-Restaurants](https://github.com/vaishnavi1197/Zomato_Predict-Rating-of-Restaurants.)
 2. [Prediction-of-Stock-Prices-Time-Series-Analysis](https://github.com/vaishnavi1197/Prediction-of-Stock-Prices-Time-Series-Analysis-)
