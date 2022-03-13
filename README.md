@@ -18,14 +18,14 @@
 1. [Password-Strength-NLP](https://github.com/vaishnavi1197/Password-Strength-NLP-)
 2. Poem creating using Evolutionary Algorithm (project in progress)
 
-### __*Image Processing Projects (without built in librarary functions)*__:
+### __*Image Processing Projects (without built-in library functions)*__:
    [go to repo](https://github.com/vaishnavi1197/Digital-Image-Processing-Library)
 1. [Salt Pepper noise](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Salt%20Pepper%20noise)
 2. [Blurring with Gaussian filter](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Blurring_Gaussian_Filtering)
 3. [Histogram Equalizations](https://github.com/vaishnavi1197/Digital-Image-Processing-Library/tree/main/Histogram%20Equalizations)
 
 
-### __*Neural Network basics (without built in librarary functions)*__:
+### __*Neural Network basics (without built-in library functions)*__:
 1. [Autoencoder-network ](https://github.com/vaishnavi1197/Autoencoder-network)
 2. [Multi-layer-feed-forward-neural-network ](https://github.com/vaishnavi1197/-Multi-layer-feed-forward-neural-network)
 3. [Perceptron](https://github.com/vaishnavi1197/Perceptron)
