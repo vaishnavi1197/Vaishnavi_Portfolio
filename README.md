@@ -6,8 +6,8 @@
 
 ## *Navigate directly to interested project domains*:
 
-## Machine learning models:
-1. <span style="color:black">[Zomato_Predict-Rating-of-Restaurants](https://github.com/vaishnavi1197/Zomato_Predict-Rating-of-Restaurants.)</span>
+## <span style="color:red">Machine learning models:</span>
+1. [Zomato_Predict-Rating-of-Restaurants](https://github.com/vaishnavi1197/Zomato_Predict-Rating-of-Restaurants.)
 2. [Prediction-of-Stock-Prices-Time-Series-Analysis](https://github.com/vaishnavi1197/Prediction-of-Stock-Prices-Time-Series-Analysis-)
 3. [Airplane-Fair-Prediction](https://github.com/vaishnavi1197/Airplane-Fair-Prediction-)
 
