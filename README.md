@@ -3,8 +3,8 @@
 
 # <span style="color:Red">**DataScience Portfolio**</span>   
 
-#[See PDF Version](https://github.com/vaishnavi1197/Vaishnavi_Portfolio/blob/main/PORTFOLIO_Vaishnavi.pdf)> 
 
+##<[See PDF Version](https://github.com/vaishnavi1197/Vaishnavi_Portfolio/blob/main/PORTFOLIO_Vaishnavi.pdf)> 
 
 
 ## <span style="color:darkblue">*Project Domains*:</span>
