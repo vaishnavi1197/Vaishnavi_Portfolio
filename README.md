@@ -1,20 +1,10 @@
 ## ⚠️ beta version ⚠️
 
 
-# <span style="color:Red">**DataScience Portfolio**</span>   <[DOWNLOAD PDF](https://github.com/vaishnavi1197/Vaishnavi_Portfolio/blob/main/PORTFOLIO_Vaishnavi.pdf)> 
+# <span style="color:Red">**DataScience Portfolio**</span>   
 
+#[See PDF Version](https://github.com/vaishnavi1197/Vaishnavi_Portfolio/blob/main/PORTFOLIO_Vaishnavi.pdf)> 
 
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Portfolio</title>
-  </head>
-  <body>
-    <iframe src="https://github.com/vaishnavi1197/Vaishnavi_Portfolio/blob/main/PORTFOLIO_Vaishnavi.pdf" width="100%" height="500px">
-    </iframe>
-  </body>
-</html>
 
 
 ## <span style="color:darkblue">*Project Domains*:</span>
